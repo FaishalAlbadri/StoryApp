@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="title_welcome_page">Selamat datang di DicodingApp!</string>
+    <string name="message_welcome_page">Yuk upload ceritamu selama belajar di dicoding dan temukan cerita dari teman-teman lainnya yang telah lulus maupun yang sedang belajar di sini!</string>
+    <string name="copyright">© 2023 Muhammad Risto Abrar</string>
+    <string name="password_eror">Password tidak boleh kurang dari 8</string>
+    <string name="email_eror">Masukkan Email yang benar!</string>
+    <string name="message_login_page">Masukkan dulu data login kamu ya!</string>
+    <string name="title_login_page">Login User</string>
+    <string name="title_register_page">Register User</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>-->
+    <string name="camera">Camera</string>-->
+    <string name="gallery">Gallery</string>-->
+    <string name="upload">Upload</string>-->
+    <string name="desc">Description</string>-->
+    <string name="username">Username</string>-->
+    <string name="required_field">Bagian ini harus diisi!</string>
+    <string name="map">Map</string>
+    <string name="logout">Keluar</string>
+    <string name="add_story">Add Story</string>
+    <string name="story">Deskripsi story</string>
+    <string name="tambah_cerita">Tambah Cerita</string>
+    <string name="input_image">Tambahkan gambar terlebih dulu!</string>
+    <string name="retry">Retry</string>
+    <string name="title_activity_maps">Maps Story</string>
+    <string name="start_point">You\'re Here</string>
+    <string name="title_detail_story">Detail Story</string>
+    <string name="title_add_story">Add Story</string>
+    <string name="send_location">Send Location ?</string>
+
+</resources>
