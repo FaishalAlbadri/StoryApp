@@ -4,9 +4,7 @@ import android.Manifest
 import android.content.pm.PackageManager
 import android.content.res.Resources
 import android.location.Location
-import android.os.Build
 import android.os.Bundle
-import android.os.StrictMode
 import android.util.Log
 import android.widget.Toast
 import androidx.activity.result.contract.ActivityResultContracts

@@ -17,10 +17,8 @@ import com.dicoding.storyapp.util.getOrAwaitValue
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.test.runTest
-import org.junit.Assert
 import org.junit.Assert.*
 import org.junit.Rule
-
 import org.junit.Test
 import org.junit.runner.RunWith
 import org.mockito.Mock
@@ -39,7 +37,8 @@ class MainViewModelTest {
 
     @Mock
     private lateinit var repository: StoryRepository
-    private var TOKEN = "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ1c2VyLWtyRkZNRE45ZEw0Y19ycVUiLCJpYXQiOjE2ODQ2MzE2Nzh9.NNfhppNT-iFO2Cpx0k7ctpL5N-jpB_GmXZTAzjNmlGo"
+    private var TOKEN =
+        "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ1c2VyLWtyRkZNRE45ZEw0Y19ycVUiLCJpYXQiOjE2ODQ2MzE2Nzh9.NNfhppNT-iFO2Cpx0k7ctpL5N-jpB_GmXZTAzjNmlGo"
 
 
     @Test
